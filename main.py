@@ -16,20 +16,5 @@ for house in houses:
         print("Current lord: Unknown.")
 
 
-# houses is a list of dictionaries now
-
-
-# leader = houses[1]['currentLord']
-# print(leader)
-
-# leader = response.json()[1]['currentLord']
-# print(leader)
-
-
-# for item in houses:
-#     leader_link = item['currentLord']
-#     response2 = requests.get(leader_link)
-#     res = json.loads(response2.text)
-#     print(response2.text)
 
 
